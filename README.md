@@ -1,4 +1,8 @@
 # React_native_banking_app
+<h5>A  banking application made using react native | Spring webflux | mongodb</h5>
+
+<h3>Objectives</h3>
+<h5>In this project mongo db was used as backend spring boot as controller and react as view a banking application was created with various functionalities and validations in each step. </h5>
 
 <h3>Screenshots</h3>
 
