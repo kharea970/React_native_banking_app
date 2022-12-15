@@ -4,6 +4,11 @@
 <h3>Objectives</h3>
 <h5>In this project mongo db was used as backend spring boot as controller and react as view a banking application was created with various functionalities and validations in each step. </h5>
 
+<h3>TechStack</h3>
+
+![a6](https://user-images.githubusercontent.com/109665445/207917579-00b15df7-45c7-4951-8882-e66a7299395e.png)
+
+
 <h3>Screenshots</h3>
 
 <h5>Project structure</h5>
